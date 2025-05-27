@@ -6,17 +6,10 @@ This repository contains a collection of structured learning modules focused on 
 
 This module covers comprehensive front-end technologies with practice files for:
 
-- HTML5: Semantics, forms, media, localStorage, geolocation, and more.
-- CSS3: Styling techniques including selectors, layout models, media queries, and responsive design.
-- Bootstrap 5: Setup, grid system, forms, navbars, cards, utilities, JS plugins, and customization.
-- JavaScript: Syntax, conditionals, functions, DOM manipulation, AJAX, async operations, and jQuery.
 
 Key Folders:
--Module 1 - HTML5/
-- Module 1-CSS3/
-- Module 1-Bootstrap5/
-- Module 1-JavaScript/
-
+- Module 1 - CSS FIles
+- Module 1 - JAVASCRIPT Files 
 
 📁 MODULE 2: ANSI SQL
 
